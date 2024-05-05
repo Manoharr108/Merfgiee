@@ -14,4 +14,4 @@ Merge multiple PDF documents into one with ease using this open-source PDF merge
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/pdf-merger.git
+git clone https://github.com/manoharr108/
